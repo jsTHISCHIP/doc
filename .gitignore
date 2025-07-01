@@ -3,5 +3,5 @@ dist
 cache
 .temp
 .DS_Store
-/deploy.js
-/push-deploy.bat
+
+push-deploy.bat
